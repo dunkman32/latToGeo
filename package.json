@@ -1,6 +1,6 @@
 {
   "name": "lattogeo",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "write Latin words and get Georgian one",
   "main": "index.js",
   "scripts": {
@@ -14,6 +14,8 @@
     "lattogeo",
     "latinToGeorgian",
     "EnglishToGeorgian",
+    "transliteration",
+    "Georgian",
     "ქართული",
     "ინგლისური"
   ],

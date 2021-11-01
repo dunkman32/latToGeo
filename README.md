@@ -2,7 +2,7 @@
 
 LatToGeo library created for translate Latin/English characters to Georgian (Mkhedruli)
 
-#Installation
+# Installation
 
 Using npm:
 ```shell
@@ -13,7 +13,7 @@ Using npm:
 yarn add lattogeo
 ```
 
-#Example
+# Example
 
 ```js
 
