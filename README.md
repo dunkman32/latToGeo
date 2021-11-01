@@ -20,7 +20,7 @@ yarn add lattogeo
 import latToGeo from 'lattogeo'
 
 const translate = () => {
-    const lat = 'romelman Seqmna samyaro Zalita miT Zlierita'
+    const lat = 'romelman Seqmna samyaro ZaliTa miT ZlieriTa'
     console.log(latToGeo(lat)) // რომელმან შექმნა სამყარო ძალითა მით ძლიერითა
 }
 

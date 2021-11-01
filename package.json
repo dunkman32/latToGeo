@@ -1,6 +1,6 @@
 {
   "name": "lattogeo",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "write Latin words and get Georgian one",
   "main": "index.js",
   "scripts": {
